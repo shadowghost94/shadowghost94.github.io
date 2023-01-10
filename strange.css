@@ -80,7 +80,7 @@ aside h2{
 #pic2{width: 100%;}
 #pic3{width: 100%;}
 
-@media only screen and (max-width: 480px){
+@media only screen and (max-width: 1920px){
 	h1{
 	color: yellow;
 	text-align: left;
@@ -88,6 +88,6 @@ aside h2{
 	}
 
 	nav a{
-		font-size: 12px;
+		font-size: 10px;
 	}
 }
